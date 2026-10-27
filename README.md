@@ -28,7 +28,7 @@ El sistema permite contrastar las posturas de los diferentes grupos parlamentari
 El proyecto fue desarrollado en equipo durante las sesiones de Saturdays.AI en el campus de la **Universidad de Alicante**:
 
 * **Jesús Mariano Núñez Fernández** — *Data Pipeline, Preprocesamiento NLP, Experimentación de Modelos de Machine Learning y Serialización.*
-* **Leticia** — *Estudiante de Grado en Ingeniería Informática (Saturdays.AI).*
+* **Leticia** — *Estudiante de Grado en Ingeniería Informática, Encargada del fronted (No se pudo recuperar esa parte del proyecto).*
 * **José** — *Sistemas y Diseño Gráfico.*
 * **Fran García** — *Analista Político y Coordinación de Negocio.*
 
