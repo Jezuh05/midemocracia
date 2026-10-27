@@ -12,6 +12,8 @@
 
 ## 📌 Contexto y Caso de Uso (Civic Tech)
 
+Proyecto en equipo multidisciplinar
+
 **MiDemocracIA** es una iniciativa de tecnología cívica orientada a facilitar la comprensión y transparencia de la actividad parlamentaria en España. 
 
 La lectura y análisis de textos legales publicados en el Boletín Oficial de las Cortes Generales (BOCG) resulta compleja e inaccesible para el ciudadano medio debido a su extensión y jerga burocrática. El objetivo del proyecto fue diseñar un **pipeline de Procesamiento del Lenguaje Natural (NLP)** capaz de clasificar de manera automatizada las iniciativas legislativas del Congreso de los Diputados en dos dimensiones políticas fundamentales:
